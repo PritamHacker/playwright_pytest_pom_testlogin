@@ -1,0 +1,7 @@
+# Base URL of the application
+base_url: "https://www.saucedemo.com/"
+
+# Valid user credentials for successful login test
+valid_user:
+  email: "standard_user"
+  password: "secret_sauce"
