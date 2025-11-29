@@ -3,7 +3,7 @@ import pytest
 from pages.login_page import LoginPage
 
 
-# @pytest.fixture
+@pytest.fixture
 # Test case for valid login
 def test_valid_login(setup, config):
     # The 'setup' fixture returns a Playwright page instance
